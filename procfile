@@ -1,0 +1,1 @@
+web: vendor/bin/php-heroku-apache 2 public
